@@ -32,7 +32,7 @@
     "extends": [
       "react-app",
       "react-app/jest"
-    ]dsd
+    ]
   },
   "browserslist": {
     "production": [
